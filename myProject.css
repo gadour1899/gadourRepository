@@ -1,0 +1,119 @@
+.y{
+	text-align: center;
+	text-decoration: underline;
+	font-weight: bold;
+}
+.section1 {
+	 width: 100%;
+    height: 270px;
+    background-image : url("jersey3.jpg");
+}
+.myHeader {
+    width: 100%;
+    padding-top: 10px;
+    height: 70px;
+    text-align: center;
+}
+.icon {
+    width: 100px;
+    height: 40px;
+    display: inline-block;
+    position: absolute;
+    left: 10px;
+    top: 20px;
+}
+.hamburger {
+	 width: 60%;
+}
+
+.logo {
+    width: 220px;
+    height: 40px;
+    display: inline-block;
+    margin-top: 10px;
+}
+
+.myLogo {
+    width: 55%;
+}
+.football {
+    width: 100px;
+    height: 40px;
+    display: inline-block;
+    position: absolute;
+    right: 10px;
+    top: 30px;
+
+}
+
+.iconFootball {
+    width: 60%;
+}
+#myDiv {
+	height: 950px;
+	background: whitesmoke;
+	display : grid;
+    grid-template-columns : auto auto auto ;
+}
+
+.image {
+	width: 40%;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 90%;
+	border-color: black;
+	display: grid;
+	grid-template-columns: auto auto auto ;
+}
+
+button {
+	width: 20%;
+	margin-left: 40%;
+	margin-right: 60%;
+	font-weight: bold;
+	background-color: black;
+	color: white;
+}
+#nike {
+	 width: 120px;
+    height: 70px;
+    display: inline-block;
+    position: absolute;
+    margin-left: 15%;
+    margin-top :20px;
+}
+#adidas {
+	width: 180px;
+    height: 100px;
+    display: inline-block;
+    position: absolute;
+    margin-left: 55%;
+    margin-top :20px;
+}
+#puma {
+	width: 140px;
+    height: 90px;
+    display: inline-block;
+    position: absolute;
+    margin-left: 75%;
+    margin-top :20px;
+}
+#kappa{
+	width: 120px;
+    height: 80px;
+    display: inline-block;
+    position: absolute;
+    margin-left: 35%;
+    margin-top :20px;
+}
+footer {
+	height: 120px;
+}
+.z {
+	text-decoration: line-through;
+	text-align: center;
+}
+.w{
+	text-align: center ;
+	font-weight: bold;
+}
